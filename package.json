@@ -2,7 +2,8 @@
   "dependencies": {
     "@solana/web3.js": "^1.73.3",
     "@zetamarkets/sdk": "^1.4.2",
-    "@noble/curves": "^1.0.0"
+    "@noble/curves": "^1.0.0",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/node": "^18.0.4",
